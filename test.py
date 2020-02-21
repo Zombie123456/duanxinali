@@ -21,7 +21,7 @@ params = {
 	'Action': 'SendSms',
 	'Version': '2017-05-25',
 	'RegionId': 'cn-hangzhou',
-	'PhoneNumbers': '15681370786',
+	'PhoneNumbers': '************',
 	'SignName': '乐理二手',
 	'TemplateCode': 'SMS_163438002',
 	'TemplateParam': json.dumps({'code': '564564'})
